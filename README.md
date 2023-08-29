@@ -6,23 +6,19 @@ Welcome to my portfolio for the Software Analysis and Design class (CSCI 13500) 
 
 ## Contents
 
-Projects: Name of Project
+Projects: Total of 3 Projects
 
-Description: A brief overview of the project, its goals, and its key features.
-Source Code: Link to the GitHub repository or relevant files.
+Description: A brief overview of the project can be found in commented parts of each project.
 Technologies Used: List of technologies, libraries, and tools utilized.
 
-Labs: Name of Lab Assignment
+Labs: Labs are numbered 
 
-Description: Explanation of the lab assignment, its objectives, and the tasks accomplished.
-Source Code: Link to the GitHub repository or relevant files.
-Concepts Covered: List of software analysis and design concepts applied.
+Description: The description for each lab can be found in the README.md file, and specific intructions for each part of the lab are commented at the top of each file.
+Concepts Covered: Fundamental data types; Arrays; Decisions; Loops; Functions; Scope Static Vars; Pass by Reference; Pointers; Dynamic Memory; Objects; Classes; Enumerations; Streams; Inheritance; Vectors; Recursion
 
-Homeworks: Name of Homework Assignment
+Homeworks: Can be found in the "Homeworks" folder
 
-Description: Details about the homework task, the approach taken, and the solutions implemented.
-Source Code: Link to the GitHub repository or relevant files.
-Design Patterns: Mention any design patterns utilized in the assignment.
+Description: Details about the homework task are commented at the top of each file.
 
 ## Contact
 
