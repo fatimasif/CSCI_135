@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my portfolio for the Software Analysis and Design class. In this repository, you'll find a collection of my projects, labs, and homework assignments, all of which were completed using C++. Each item in this portfolio showcases my skills and understanding of software analysis and design concepts.
+Welcome to my portfolio for the Software Analysis and Design class (CSCI 13500) at CUNY Hunter College. In this repository, you'll find a collection of my projects, labs, and homework assignments, all of which were completed using C++. Each item in this portfolio showcases my skills and understanding of software analysis and design concepts.
 
 ## Contents
 
